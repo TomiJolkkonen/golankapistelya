@@ -1,0 +1,2 @@
+# golankapistelya
+Go-kielen harjoitteita
