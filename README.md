@@ -1,2 +1,2 @@
-# golankapistelya
-Go-kielen harjoitteita
+# golang
+Small data project with Go as a practice
